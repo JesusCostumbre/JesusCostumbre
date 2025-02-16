@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Jesús Costumbre!
 
-<!--
-**JesusCostumbre/JesusCostumbre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador web especializado en landing pages.  
+🚀 Apasionado por crear sitios rápidos, accesibles y atractivos.  
 
-Here are some ideas to get you started:
+## 💼 Servicios que ofrezco
+- Diseño y desarrollo de landing pages modernas  
+- Optimización SEO básico y mejoras de rendimiento  
+- Integración de formularios de contacto  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso
+- HTML | CSS | SASS | JavaScript | Git | GitHub | Bootstrap
+- Diseño responsivo y Mobile-first  
+- SEO básico y optimización de carga  
+
+## 📂 Proyectos Destacados
+- 🚀 [Landing Page para nutriologo]
+-  [Landing page para negocio]
+
+## 📊 Mi actividad en GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusCostumbre&show_icons=true&theme=radical)
+
+## 📫 Contacto
+- 📧 Email: jesuscostumbre11@gmail.com  
+- 💼 WhatsApp: +52 9515881087  
