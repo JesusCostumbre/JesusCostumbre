@@ -14,7 +14,7 @@
 - SEO básico y optimización de carga  
 
 ## 📂 Proyectos Destacados
-- 🚀 [Landing Page para nutriologo]
+- 🚀 [Landing Page para nutriologo] https://sabie-nutricion.netlify.app/
 -  [Landing page para negocio]
 
 ## 📊 Mi actividad en GitHub
