@@ -22,4 +22,4 @@
 
 ## 📫 Contacto
 - 📧 Email: jesuscostumbre11@gmail.com  
-- 💼 WhatsApp: +52 9515881087  
+- 💼 [LinkedIn](https://linkedin.com/in/jesuscostumbre)
