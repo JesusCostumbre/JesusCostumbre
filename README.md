@@ -14,8 +14,7 @@
 - SEO básico y optimización de carga  
 
 ## 📂 Proyectos Destacados
-- 🚀 [Landing Page para nutriologo] https://sabie-nutricion.netlify.app/
--  [Landing page para negocio]
+- 🚀 [Landing Page para nutriologo] https://sabienutriciondeportiva.com/
 
 ## 📊 Mi actividad en GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusCostumbre&show_icons=true&theme=radical)
